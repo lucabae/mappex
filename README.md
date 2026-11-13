@@ -192,3 +192,9 @@ The Skydio X2 model and scene are Apache-2.0 licensed (see
 `mujoco/models/LICENSE`). Built with [MuJoCo](https://mujoco.org),
 [Ultralytics YOLO](https://docs.ultralytics.com), [OpenCV](https://opencv.org)
 and to a large extent curiosity.
+
+## License
+
+No license has been specified for the project source. The Skydio X2 model and
+scene files under `mujoco/models/` are Apache-2.0 licensed; see the included
+license file.
