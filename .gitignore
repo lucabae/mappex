@@ -1,0 +1,22 @@
+# Datasets and trained weights are generated artefacts, not source.
+data/
+yolo_dataset/
+runs/
+model/
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.commandcode/
+
+# Local run output
+.pytest_cache/

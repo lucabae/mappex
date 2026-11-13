@@ -1,0 +1,4 @@
+numpy>=1.26
+opencv-python>=4.9
+mujoco>=3.2
+ultralytics>=8.3
